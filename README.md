@@ -3,7 +3,7 @@
 > Every mathematical equation creates an interactive universe.
 
 A stunning interactive exploration of mathematical equations — built with Next.js 15, React Flow, Framer Motion, and Tailwind CSS.
-
+view.png
 ---
 
 ## ✨ Features
