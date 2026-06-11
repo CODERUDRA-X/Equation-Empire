@@ -105,46 +105,6 @@ Open [http://localhost:3000](http://localhost:3000) to see the landing page.
 
 ---
 
-## 🔧 Extending the Project
-
-### Add a new world
-
-1. Add a new `WorldId` to `types/equation.ts`
-2. Add the world definition to the `EQUATION_WORLDS` array in `lib/worlds.ts`
-3. The world automatically appears in the sidebar and landing grid
-
-### Add a new equation node
-
-Find the world in `lib/worlds.ts` and add to its `nodes` array:
-
-```ts
-{
-  id: "fractal-my-new-node",
-  worldId: "fractal",
-  category: "equation",       // equation | concept | application | theory | constant
-  title: "My New Equation",
-  equation: "f(x) = ...",
-  description: "Explanation...",
-  tags: ["tag1", "tag2"],
-  position: { x: 100, y: 100 },
-  glowColor: "#06b6d4",
-}
-```
-
-Then add an edge in the world's `edges` array to connect it.
-
-### Customise the theme
-
-All design tokens live in `tailwind.config.ts`. The colour palette uses these named tokens:
-- `void` — Deepest background
-- `nebula` / `cosmos` — Card surfaces
-- `pulsar` — Cyan accent
-- `quasar` / `nova` / `aurora` — Violet spectrum
-- `starlight` — Gold accent
-- `stardust` / `comet` / `asteroid` — Text scale
-
----
-
 ## 📦 Tech Stack
 
 | Tool | Version | Purpose |
