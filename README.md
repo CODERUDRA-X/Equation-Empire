@@ -23,15 +23,9 @@ A stunning interactive exploration of mathematical equations — built with Next
 
 ## 🌍 The 7 Worlds
 
-| World | Icon | Colour | Key Equation |
-|-------|------|--------|--------------|
-| **Fractal** | 🌀 | Cyan | Mandelbrot: `z_{n+1} = z_n² + c` |
-| **Butterfly** | 🦋 | Gold | Lorenz System: `ẋ = σ(y−x)` |
-| **Bayes** | 🎯 | Violet | Bayes: `P(H\|E) = P(E\|H)P(H)/P(E)` |
-| **Gravity** | 🪐 | Orange | Einstein: `G_μν + Λg_μν = 8πG/c⁴ T_μν` |
-| **Waves** | 〰️ | Emerald | Wave Eq: `∂²u/∂t² = c²∇²u` |
-| **Probability** | 🎲 | Pink | Normal: `f(x) = 1/(σ√2π) e^(-(x-μ)²/2σ²)` |
-| **Geometry** | 📐 | Lavender | Euler: `e^{iπ} + 1 = 0` |
+<p align="center">
+  <img src="table.png" width="980">
+</p>
 
 ---
 
