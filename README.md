@@ -29,15 +29,46 @@ A stunning interactive exploration of mathematical equations — built with Next
 
 ---
 
-## 📦 Tech Stack
+<h2>📦 Tech Stack</h2>
 
-| Tool | Version | Purpose |
-|------|---------|---------|
-| Next.js | 15 | Framework, App Router |
-| TypeScript | 5 | Type safety |
-| Tailwind CSS | 3 | Utility styling |
-| @xyflow/react | 12 | Interactive graph (React Flow) |
-| Framer Motion | 12 | Animations & transitions |
+<table>
+<tr>
+<th>Technology</th>
+<th>Version</th>
+<th>Purpose</th>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="26"> <sub>next.js</sub></td>
+<td align="center">15</td>
+<td>Framework, App Router</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="26"> <sub>typescript</sub></td>
+<td align="center">5</td>
+<td>Type Safety</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="26"> <sub>tailwind css</sub></td>
+<td align="center">3</td>
+<td>Utility-first Styling</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="26"> <sub>@xyflow/react</sub></td>
+<td align="center">12</td>
+<td>Interactive Graph</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=framermotion" width="26"> <sub>framer motion</sub></td>
+<td align="center">12</td>
+<td>Animations &amp; Transitions</td>
+</tr>
+
+</table>
 
 ---
 
